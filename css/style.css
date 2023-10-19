@@ -1,0 +1,10 @@
+body {
+    background-image: url("../img/bg.jpg");
+    background-repeat: none;
+}
+
+.floating-form {
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-top: 120px;
+}
